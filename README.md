@@ -1,2 +1,2 @@
 # MagneticSwimmer-3DNav-BloodClot
-System for steering Magnetic Swimmers to abrade blot clots
+This repository contains programs used to control rotating magnetic swimmers. The repository also contains experiments data.
